@@ -67,11 +67,18 @@ h2 strong{
 	font-style: italic;
 }
 
+.wrapper {
+ width: 480px;
+ margin: 0 auto;
+ background-color: rgba(0,0,0,.6);
+    padding: 20px;
+    
+}
 
 .information{
-width: 480px;
+
 padding-top: 35px;
-margin: 0 auto;
+
 }
 
 h3{
