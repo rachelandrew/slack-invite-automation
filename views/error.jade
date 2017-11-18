@@ -9,7 +9,8 @@ html
   body
     #wrapper
       .main
-        .header
-          h1= message
-          h2= error.status
-          pre #{error.stack}
+        .wrapper
+          .header
+            h1= message
+            h2= error.status
+            pre #{error.stack}
